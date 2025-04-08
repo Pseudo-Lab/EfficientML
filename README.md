@@ -56,7 +56,7 @@
 | **Project Manager** | 박성수 | [Link](https://www.linkedin.com/in/seongsu-park/)           |
 | **Member** | 김슬 | |
 | **Member** | 박동찬 | |
-| **Member** | 오새빛나 | |
+| **Member** | 오새빛나 |  |
 | **Member** | 윤남규 | |
 | **Member** | 이정수 | |
 
@@ -93,7 +93,7 @@
 |  | 박성수 | [[Link]](https://github.com/Pseudo-Lab/EfficientML/discussions/11) |
 |  | 김슬 |  |
 |  | 박동찬 | |
-|  | 오새빛나 | |
+| LLM Minimalism | 오새빛나 | [Link](https://github.com/Pseudo-Lab/EfficientML/discussions/16) |
 |  | 윤남규 | |
 |  | 이정수 | [[Link]](https://github.com/Pseudo-Lab/EfficientML/discussions/17)|
 
