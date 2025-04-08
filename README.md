@@ -95,7 +95,7 @@
 |  | 박동찬 | |
 |  | 오새빛나 | |
 |  | 윤남규 | |
-|  | 이정수 | |
+|  | 이정수 | [[Link]](https://github.com/Pseudo-Lab/EfficientML/discussions/17)|
 
 <!-- ## 💡 학습 자원 (Learning Resources)
 **우리가 만든 지식 허브**  
