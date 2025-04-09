@@ -73,7 +73,7 @@
 | 2025/3/25 |  ⭐ Magical Week 휴일 ⭐ | | 
 | 2025/4/1 |  Pruning and Sparsity (Part II) <br> Large language models <br> LLM Fine-Tuning | [[Part 1]](https://github.com/Pseudo-Lab/EfficientML/discussions/8)  <br> [[Part 2]](https://github.com/Pseudo-Lab/EfficientML/discussions/9)| 
 | 2025/4/8 |  Quantization (Part I) | [[Link]](https://github.com/Pseudo-Lab/EfficientML/discussions/12) | 
-| 2025/4/15 |  Quantization (Part II) | 미정 | 
+| 2025/4/15 |  Quantization (Part II) | [[Link]](https://github.com/Pseudo-Lab/EfficientML/discussions/13) | 
 | 2025/4/22 |  Neural Architecture Search (Part I) | 미정 | 
 | 2025/4/29 |  ⭐ Magical Week 휴일 ⭐ | 미정 | 
 | 2025/5/6 |  Neural Architecture Search (Part II) | 미정 | 
