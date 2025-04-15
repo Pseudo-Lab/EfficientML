@@ -93,7 +93,7 @@
 | Face-based age classification | 박성수 | [[Link]](https://github.com/Pseudo-Lab/EfficientML/discussions/11) |
 | Practical Quantization of Open LLMs | 김슬 | [[Link]](https://github.com/Pseudo-Lab/EfficientML/discussions/19) |
 | Three Visions on One Edge | 박동찬 | [[Link]](https://github.com/Pseudo-Lab/EfficientML/discussions/18) |
-| LLM Minimalism | 오새빛나 | [[Link]](https://github.com/Pseudo-Lab/EfficientML/discussions/16) |
+| Transformer Minimalism | 오새빛나 | [[Link]](https://github.com/Pseudo-Lab/EfficientML/discussions/16) |
 |  | 윤남규 | |
 |  | 이정수 | [[Link]](https://github.com/Pseudo-Lab/EfficientML/discussions/17)|
 
