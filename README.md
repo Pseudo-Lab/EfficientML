@@ -95,7 +95,7 @@
 | Three Visions on One Edge | 박동찬 | [[Link]](https://github.com/Pseudo-Lab/EfficientML/discussions/18) |
 | Transformer Minimalism | 오새빛나 | [[Link]](https://github.com/Pseudo-Lab/EfficientML/discussions/16) |
 |  | 윤남규 | |
-|  | 이정수 | [[Link]](https://github.com/Pseudo-Lab/EfficientML/discussions/17)|
+| Image Classification using simple models | 이정수 | [[Link]](https://github.com/Pseudo-Lab/EfficientML/discussions/17)|
 
 <!-- ## 💡 학습 자원 (Learning Resources)
 **우리가 만든 지식 허브**  
